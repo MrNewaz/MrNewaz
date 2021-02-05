@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="mrnewaz" /> </p>
 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Newaz&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fsaifnewaz.me" alt="sass" /> </a> 
+<p align="center"><a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Newaz&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fsaifnewaz.me" alt="sass" /> </a> </p>
 
 <br>
 
