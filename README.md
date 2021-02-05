@@ -16,13 +16,13 @@
 <br>
 
 
-
+<div align="center" >
 - 🌱 I’m currently focusing on **React.**
 
 - 📫 Reach me @**Mr.SaifNewaz@gmail.com**
 
 - ⚡ Fun fact **I'm a Gamer and Fitness Enthusiast.**
-
+</div>
 <br>
 
 
