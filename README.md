@@ -12,13 +12,6 @@
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=saif_newaz" target="_blank"> <img src="https://img.shields.io/twitter/follow/saif_newaz?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter" /> </a>
  </p>
 
-<br>
-
-[![Website](https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Newaz&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fsaifnewaz.me)](https://saifnewaz.me)
-[![Website](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/saif.newaz)
-[![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saif.newaz)
-[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifur-rahman-saif/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/saif_newaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=saif_newaz)
 
 <br>
 
