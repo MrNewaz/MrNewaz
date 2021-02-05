@@ -1,6 +1,6 @@
 ### Hi there, I'm [Saif Newaz] 👋
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=saifnewaz.me&style=flat-square&up_color=green&up_message=Up&url=https%3A%2F%2Fsaifnewaz.me)](https://saifnewaz.me)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=saifnewaz.me&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fsaifnewaz.me)](https://saifnewaz.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm an Engineer, Developer, and Teacher!!
