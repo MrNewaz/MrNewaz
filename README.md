@@ -44,11 +44,10 @@
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNewaz&langs_count=8)](https://github.com/MrNewaz/github-readme-stats)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnewaz&show_icons=true&locale=en&layout=compact" alt="mrnewaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnewaz&show_icons=true&locale=en" alt="mrnewaz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnewaz&show_icons=true&locale=en" alt="mrnewaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnewaz&" alt="mrnewaz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnewaz&" alt="mrnewaz" /></p>
 
