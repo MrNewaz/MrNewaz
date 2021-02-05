@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnewaz" alt="mrnewaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saif_newaz" target="blank"><img src="https://img.shields.io/twitter/follow/saif_newaz?logo=twitter&style=for-the-badge" alt="saif_newaz" /></a> </p>
+
 
 - 🌱 I’m currently learning **React.**
 
