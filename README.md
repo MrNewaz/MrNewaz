@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saif Newaz</h1>
 <h3 align="center">An Engineer, A Self Taught Developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="mrnewaz" /> </p>
+
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=saifnewaz.me&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fsaifnewaz.me)](https://saifnewaz.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/saif_newaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=saif_newaz)
-[![Website](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://saifnewaz.me)
+[![Website](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/saif.newaz)
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="mrnewaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnewaz" alt="mrnewaz" /></a> </p>
 
