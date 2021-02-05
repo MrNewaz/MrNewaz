@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](saifnewaz.me)
+- 👨‍💻 All of my projects are available at [saifnewaz.me](saifnewaz.me)
 
 - 📫 Reach me @ **Mr.SaifNewaz@gmail.com**
 
