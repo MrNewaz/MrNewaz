@@ -2,7 +2,7 @@
 
 <h3 align="center">An Engineer, A Problem Solver , A Self Motivated Developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
+<p align="center" style= "font-size: 5rem; "> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
 
 <p align="center">
 <a href="https://saifnewaz.me" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=SaifNewaz.me&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=On&url=https%3A%2F%2Fsaifnewaz.me" alt="Portfolio" /> </a>
