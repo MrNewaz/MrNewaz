@@ -30,8 +30,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;  
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://png2.cleanpng.com/sh/a498dfa4f0eaf164ccc22a640bc7821c/L0KzQYm3VMEyN6V7j5H0aYP2gLBuTfNqdpZyeZ89ZD31dbBrhgJqdpgyjtt8dXHvPbbthvVkfKQyjp97YYmwcbBwjfF1cZDzReQ2NXHmdYHtgfM6OmMAfKY3NkWzSYG9VMQyPWM4TKc8OEa7RYqBV75xdpg=/kisspng-cinema-4d-rendering-visual-effects-v-ray-animation-r-5ace0fac9229d4.6509064415234538685987.png" alt="blender" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 <br>
 
