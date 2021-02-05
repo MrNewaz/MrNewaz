@@ -2,6 +2,14 @@
 
 <h3 align="center">An Engineer, A Self Taught Developer.</h3>
 
+<div align="center" >
+ 🌱 I’m currently focusing on **React.**
+
+ 📫 Reach me @**Mr.SaifNewaz@gmail.com**
+
+ ⚡ Fun fact **I'm a Gamer and Fitness Enthusiast.**
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="mrnewaz" /> </p>
 
 <p align="center">
@@ -15,14 +23,6 @@
 
 <br>
 
-
-<div align="center" >
- 🌱 I’m currently focusing on **React.**
-
- 📫 Reach me @**Mr.SaifNewaz@gmail.com**
-
- ⚡ Fun fact **I'm a Gamer and Fitness Enthusiast.**
-</div>
 <br>
 
 
