@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif Newaz</h1>
 <h3 align="center">An Engineer, A Self Taught Developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="mrnewaz" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="mrnewaz" /> </p> -->
 
 
 [![Website](https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Newaz&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fsaifnewaz.me)](https://saifnewaz.me)
