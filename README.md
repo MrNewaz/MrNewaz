@@ -16,7 +16,8 @@
 <br>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
+<br>
 <p align="center"> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_vscode.svg" alt="blender" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
