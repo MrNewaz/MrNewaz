@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saif Newaz</h1>
 
 <h3 align="center">A Self Motivated Developer , A Problem Solver , An Engineer.</h3>
+<p align="center">
 
-->[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arikbncc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)<-
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arikbncc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+
+</p>
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arik1155001/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
