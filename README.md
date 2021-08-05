@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif Newaz</h1>
 
 <h3 align="center">A Self Motivated Developer , A Problem Solver , An Engineer.</h3>
-<p align="center"><a href="mailto:arikbncc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank"> <img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/arik1155001/" target="_blank"> <img src="https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff" alt="Portfolio" /> </a></p>
-
-</p>
+<p align="center"><a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank"> <img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/saifur-rahman-saif/" target="_blank"> <img src="https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff" alt="Portfolio" /> </a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
 
