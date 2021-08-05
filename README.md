@@ -37,7 +37,7 @@
 </p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnewaz&show_icons=true&locale=en" alt="mrnewaz" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnewaz&theme=light&hide_langs_below=0&layout=compact&langs_count=20" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnewaz&show_icons=true&locale=en" alt="mrnewaz" /></p>
 
@@ -45,10 +45,8 @@
 
 <!-- New -->
 
-<img src="https://komarev.com/ghpvc/?username=arik096&label=Profile%20views&color=brightgreen&style=flat" alt="arik" /> </p>
-
 <p align="center">
-  <p align="center"><img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arik096&theme=light&hide_langs_below=0&layout=compact&langs_count=20" /></p>
+  <p align="center"><img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnewaz&theme=light&hide_langs_below=0&layout=compact&langs_count=20" /></p>
   <p align="center"><p align="center"><img width="600" src="https://github-readme-stats.vercel.app/api?username=arik096&show_icons=true"></p>
   <p align="center"><img width="600" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arik096&" alt="arik" /></p>
   <p align="center"><img width="1000" align="center" src="https://github-profile-trophy.vercel.app/?username=arik096&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" /></p>
