@@ -37,7 +37,7 @@
 </p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnewaz&show_icons=true&locale=en&layout=compact" alt="mrnewaz" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnewaz&show_icons=true&locale=en" alt="mrnewaz" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnewaz&show_icons=true&locale=en" alt="mrnewaz" /></p>
 
