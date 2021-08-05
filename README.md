@@ -3,6 +3,10 @@
 <h3 align="center">A Self Motivated Developer , A Problem Solver , An Engineer.</h3>
 <p align="center">
 
+<a href="mailto:arikbncc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank"> <img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Portfolio" /> </a>
+
+</p>
+
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arikbncc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 </p>
