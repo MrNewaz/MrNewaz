@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saif Newaz</h1>
 
-<h3 align="center">A Self Motivate Developer, A Problem Solver, An Engineer.</h3>
+<h3 align="center">A Self Motivated Developer, A Problem Solver, An Engineer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
 
