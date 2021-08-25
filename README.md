@@ -15,17 +15,6 @@
 
 <br>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mrnewaz&hide_title=true&hide_border=true&langs_count=5)
-
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/mrnewaz/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrnewaz&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
-
 <h2 align="center">Languages and Tools:</h2>
 <br>
 <p align="center"> 
