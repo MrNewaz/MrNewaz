@@ -70,8 +70,4 @@
 
 <p align="center"><img width="500" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrnewaz&theme=neon-palenight&hide_border=true&fire=FFDD32&ring=00CEDD&sideNums=FFDD32&background=141321" alt="mrnewaz" /></p>
 
-  <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
-
-<!-- New -->
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrnewaz&theme=dark-smoky&hide_border=true&fire=FFDD32&ring=00CEDD&sideNums=FFDD32)](https://git.io/streak-stats) -->
+<p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
