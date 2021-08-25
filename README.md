@@ -19,7 +19,6 @@
  </p>
 
 <br>
-
 <h2 align="center">Languages and Tools:</h2>
 <br>
 <p align="center"> 
@@ -58,6 +57,9 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
+
+<br>
+<h2 align="center">My Stats:</h2>
 <br>
 
 <p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnewaz&theme=radical&hide_langs_below=0&layout=compact&langs_count=20&hide_border=true" /></p>
@@ -67,6 +69,10 @@
 <p align="center"><img width="500" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrnewaz&theme=neon-palenight&hide_border=true&fire=FFDD32&ring=00CEDD&sideNums=FFDD32&background=141321" alt="mrnewaz" /></p>
 
 <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
+
+<br>
+<h2 align="center">Since you came this far, this robo is for you love❤️</h2>
+<br>
 
 <p align="center">
   <img src="https://github.com/MrNewaz/MrNewaz/blob/main/img/robot.svg">
