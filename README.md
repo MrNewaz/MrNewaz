@@ -65,7 +65,7 @@
 
 <!-- New -->
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
