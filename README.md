@@ -59,7 +59,7 @@
 
 <p align="center"><p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=mrnewaz&show_icons=true"></p>
 
-<p align="center"><img width="500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnewaz&" alt="mrnewaz" /></p>
+<p align="center"><img width="500" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrnewaz&theme=neon-dark&hide_border=true&stroke=0EBBDD&ring=0EBBDD&fire=FFDD32" alt="mrnewaz" /></p>
 
   <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
 
