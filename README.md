@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/MrNewaz/MrNewaz/blob/main/img/robot.svg">
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-stack+web+and+app+developer;Self-taught+UI%2FUX+Designer;An+engineering+graduate;Always+learning+new+things"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
@@ -69,5 +69,5 @@
 <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-stack+web+and+app+developer;Self-taught+UI%2FUX+Designer;An+engineering+graduate;Always+learning+new+things"></a>
+  <img src="https://github.com/MrNewaz/MrNewaz/blob/main/img/robot.svg">
 </p>
