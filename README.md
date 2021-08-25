@@ -71,7 +71,7 @@
 <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
 
 <br>
-<h2 align="center">Since you came this far, this robo is for you love❤️</h2>
+<h2 align="center">Since you came this far, this is for you❤️</h2>
 <br>
 
 <p align="center">
