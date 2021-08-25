@@ -1,5 +1,9 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Saif Newaz</h1>
 
+<p align="center">
+  <img src="https://github.com/mrnewaz/mrnewaz/img/robot.svg">
+</p>
+
 <h3 align="center">A Self Motivated Developer, A Problem Solver, An Engineer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
@@ -64,5 +68,5 @@
   <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
 
 <!-- New -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrnewaz&theme=dark-smoky&hide_border=true&fire=FFDD32&ring=00CEDD&sideNums=FFDD32)](https://git.io/streak-stats)
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrnewaz&theme=dark-smoky&hide_border=true&fire=FFDD32&ring=00CEDD&sideNums=FFDD32)](https://git.io/streak-stats) -->
