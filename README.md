@@ -62,7 +62,7 @@
 <h2 align="center">My Stats:</h2>
 <br>
 
-<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnewaz&theme=radical&hide_langs_below=0&layout=compact&langs_count=20&hide_border=true" /></p>
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnewaz&theme=radical&hide_langs_below=0&layout=compact&langs_count=20&hide_border=true&title_color=FEDC32" /></p>
 
 <p align="center"><p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=mrnewaz&show_icons=true&theme=radical&hide_border=true&title_color=FEDC32"></p>
 
