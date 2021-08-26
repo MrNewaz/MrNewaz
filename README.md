@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-stack+web+and+app+developer;Self-taught+UI%2FUX+Designer;An+engineering+graduate;Always+learning+new+things"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer;Self-Taught+UI%2FUX+Designer;An+Engineering+Graduate;Always+Learning+New+Things"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
