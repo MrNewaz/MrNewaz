@@ -59,6 +59,11 @@
 </p>
 
 <br>
+<h3 align="center">Languages and Tools:</h3>
+<br>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_vscode.svg" alt="vsode" width="40" height="40"/> </a> &nbsp;
+
+<br>
 <h2 align="center">My Stats:</h2>
 <br>
 
