@@ -23,8 +23,6 @@
 <br>
 <p align="center">
 
-<a href="https://reactrouter.com/" target="_blank"> <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router" width="40" height="40"/> </a> &nbsp;
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
 <a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="material ui" width="40" height="40"/> &nbsp;
@@ -61,6 +59,9 @@
 
 <p align="center">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
+<a href="https://axios-http.com/" target="_blank"> <img src="https://axios-http.com/assets/logo.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
+<a href="https://reactrouter.com/" target="_blank"> <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router" width="40" height="40"/> </a> &nbsp;
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="sass" width="40" height="40"/> </a> &nbsp;
 <a href="https://greensock.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> </a> &nbsp;
