@@ -23,18 +23,12 @@
 <br>
 <p align="center">
 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
-<a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="material ui" width="40" height="40"/> &nbsp;
-<a href="https://materializecss.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/zg/371252/svg/371252.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://vercel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+
 <a href="https://www.contentful.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/er/370747/svg/370747.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://strapi.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
-<a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="material ui" width="40" height="40"/> <a href="https://nodemon.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+
 <a href="https://app.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 
 </p>
@@ -62,9 +56,25 @@
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
 <a href="https://axios-http.com/" target="_blank"> <img src="https://axios-http.com/assets/logo.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
 <a href="https://reactrouter.com/" target="_blank"> <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router" width="40" height="40"/> </a> &nbsp;
+<a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="material ui" width="40" height="40"/> &nbsp;
+<a href="https://materializecss.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/zg/371252/svg/371252.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="sass" width="40" height="40"/> </a> &nbsp;
 <a href="https://greensock.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> </a> &nbsp;
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+</p>
+
+<br>
+<h3 align="center">Backend:</h3>
+<br>
+
+<p align="center">
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://nodemon.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 </p>
 
 <br>
