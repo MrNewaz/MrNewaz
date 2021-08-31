@@ -87,6 +87,7 @@
 <a href="https://vercel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://app.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.digitalocean.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-logo.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 </p>
 
 <br>
