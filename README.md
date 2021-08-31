@@ -21,15 +21,6 @@
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <br>
-<p align="center">
-
-<a href="https://vercel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://app.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
-
-</p>
 
 <br>
 <h3 align="center">Languages:</h3>
@@ -75,6 +66,27 @@
 <a href="https://nodemon.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.contentful.com/" target="_blank"> <img src="https://iconape.com/wp-content/files/er/370747/svg/370747.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
 <a href="https://strapi.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+</p>
+
+<br>
+<h3 align="center">Databases:</h3>
+<br>
+
+<p align="center">
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+</p>
+
+<br>
+<h3 align="center">Hostings:</h3>
+<br>
+
+<p align="center">
+<a href="https://vercel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="material ui" width="40" height="40"/> </a> &nbsp;
+<a href="https://app.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 </p>
 
 <br>
