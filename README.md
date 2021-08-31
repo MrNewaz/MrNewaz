@@ -21,8 +21,6 @@
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <br>
-
-<br>
 <h3 align="center">Languages:</h3>
 <br>
 
