@@ -19,7 +19,7 @@
  </p>
 
 <br>
-<h2 align="center">My Stack:</h2>
+<h2 align="center">✨My Stack✨</h2>
 <br>
 <h2 align="center">Languages:</h2>
 <br>
