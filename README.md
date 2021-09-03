@@ -19,9 +19,9 @@
  </p>
 
 <br>
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">My Stack:</h2>
 <br>
-<h3 align="center">Languages:</h3>
+<h2 align="center">Languages:</h2>
 <br>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <br>
-<h3 align="center">Frontend:</h3>
+<h2 align="center">Frontend:</h2>
 <br>
 
 <p align="center">
@@ -58,7 +58,7 @@
 </p>
 
 <br>
-<h3 align="center">Backend:</h3>
+<h2 align="center">Backend:</h2>
 <br>
 
 <p align="center">
@@ -72,7 +72,7 @@
 </p>
 
 <br>
-<h3 align="center">Databases:</h3>
+<h2 align="center">Databases:</h2>
 <br>
 
 <p align="center">
@@ -83,7 +83,7 @@
 </p>
 
 <br>
-<h3 align="center">Hostings:</h3>
+<h2 align="center">Hostings:</h2>
 <br>
 
 <p align="center">
@@ -97,7 +97,7 @@
 </p>
 
 <br>
-<h3 align="center">Tools:</h3>
+<h2 align="center">Tools:</h2>
 <br>
 
 <p align="center">
