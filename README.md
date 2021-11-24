@@ -136,6 +136,9 @@
 
 <p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
 
+[![Newaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark)](https://github.com/mrnewaz/github-readme-activity-graph)
+
+
 <br>
 <h2 align="center">Since you came this far, this is for you❤️</h2>
 <br>
