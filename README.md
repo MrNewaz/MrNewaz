@@ -10,7 +10,7 @@
 </p>
 
 
-<h1 align="center">🔸️Note:🔸️</h1>
+<h1 align="center">🔸️News🔸️</h1>
 
 <h2 align="center">
 Most of my works are in private repositores due to security reasons. You can find them on my 
