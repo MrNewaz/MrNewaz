@@ -1,12 +1,13 @@
 <h1 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-
-
-<p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;Self-Taught+UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
-</p>
 </h1>
+
+<h2>
+  <p align="center">
+    <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;Self-Taught+UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
+  </p>
+</h2>
 
 
 
