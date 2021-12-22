@@ -2,10 +2,13 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h2>
-<h3 align="center">
+<h2 align="center">
   Most of my works are in private repositores due to security reasons. You can find them on my portfolio website.
-</h3>
-<a href="https://newaz.engineer" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=SaifNewaz.me&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=On&url=https%3A%2F%2Fsaifnewaz.me" alt="Portfolio" /> </a>
+  <p align="center">
+<a href="https://newaz.engineer" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Newaz.engineer&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=On&url=https%3A%2F%2Fnewaz.engineer" alt="Portfolio" /> </a>
+</p>
+</h2>
+
 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;Self-Taught+UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
