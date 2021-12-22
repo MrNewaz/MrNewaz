@@ -1,11 +1,9 @@
-# Live Preview: [Live Preview](https://project-travelling.web.app/).
-
 <h2 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h2>
 
-  #  Most of my works are in private repositores due to security reasons. You can find them on my [portfolio website.](https://newaz.engineer)
+  ##  Most of my works are in private repositores due to security reasons. You can find them on my [portfolio website.](https://newaz.engineer)
 
 
 
