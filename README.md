@@ -16,11 +16,7 @@
 <p align="center"><a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank"> <img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/saifur-rahman-saif/" target="_blank"> <img src="https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff" alt="Portfolio" /> </a></p>
 
 <p align="center">
-<<<<<<< HEAD
 <a href="https://newaz.engineer" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=SaifNewaz.me&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=On&url=https%3A%2F%2Fsaifnewaz.me" alt="Portfolio" /> </a>
-=======
-<a href="https://newaz.engineer" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Newaz.Engineer&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=On&url=https%3A%2F%2Fnewaz.engineer" alt="Portfolio" /> </a>
->>>>>>> f7a11d7701b270ea197f7bb5096be0d9ef8d307b
 <a href="https://facebook.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
 <a href="https://instagram.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta" /> </a>
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=saif_newaz" target="_blank"> <img src="https://img.shields.io/twitter/follow/saif_newaz?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter" /> </a>
