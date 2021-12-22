@@ -11,11 +11,13 @@
 
 
 <h1 align="center">🔸️Note:🔸️</h1>
-<br>
+
 <h2 align="center">
 Most of my works are in private repositores due to security reasons. You can find them on my 
 <a href='https://newaz.engineer'>portfolio website.</a>
 </h2>
+
+<br>
 
 
 
