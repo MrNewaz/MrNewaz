@@ -1,19 +1,3 @@
-
-
-
-
-<h1 align="center">🔸️News🔸️</h1>
-
-<h2 align="center">
-Due to security reasons, most of my works are in private repositores. You can find their live demo on my 
-<a href='https://newaz.engineer'>portfolio website.</a>
-For further information, please contact me via <a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank">email.
-</a>
-</h2>
-
-<br>
-
-
 <h1 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
@@ -22,6 +6,21 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;Self-Taught+UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
 </p>
+
+
+
+
+<h1 align="center">🔸️News🔸️</h1>
+
+<h2 align="center">
+Due to personal security reasons, most of my featured works have been moved to private repositores. You can find their live demo on my 
+<a href='https://newaz.engineer'>portfolio website.</a>
+For further information, please contact me via <a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank">email.
+</a>
+</h2>
+
+<br>
+
 
 
 
