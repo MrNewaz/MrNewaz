@@ -13,8 +13,10 @@
 <h1 align="center">🔸️News🔸️</h1>
 
 <h2 align="center">
-Most of my works are in private repositores due to security reasons. You can find them on my 
+Most of my works are in private repositores due to security reasons. You can find their live demo on my 
 <a href='https://newaz.engineer'>portfolio website.</a>
+For further information, please contact me via <a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank">email.
+</a>
 </h2>
 
 <br>
