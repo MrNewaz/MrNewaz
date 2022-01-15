@@ -7,7 +7,7 @@
     <p align="center">
       <a
        target="_blank"
-       href="https://newaz.engineer"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;Self-Taught+UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
+       href="https://newaz.engineer"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
     </p>
 </h2>
 
