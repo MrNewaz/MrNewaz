@@ -7,7 +7,7 @@
     <p align="center">
       <a
        target="_blank"
-       href="https://newaz.engineer"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
+       href="https://newaz.tech"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Web+and+App+Developer.;UI%2FUX+Designer.;An+Engineering+Graduate.;Always+Learning+New+Things."></a>
     </p>
 </h2>
 
@@ -15,7 +15,7 @@
 
 <h2 align="center">
 Due to personal security reasons, most of my featured works have been moved to private repositores. You can find their live demo on my
-<a target="_blank" href='https://newaz.engineer'>portfolio website.</a>
+<a target="_blank" href='https://newaz.tech'>portfolio website.</a>
 For further information, please contact me via <a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank">email.
 </a>
 </h2>
@@ -24,7 +24,7 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnewaz&label=Profile%20views&color=brightgreen&style=flat" alt="mrnewaz" /> </p>
 
-<p align="center"><a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank"> <img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/saifur-rahman-saif/" target="_blank"> <img src="https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff" alt="Portfolio" /> </a></p>
+<p align="center"><a href="mailto:mr.saifnewaz@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank"> <img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/saif-newaz/" target="_blank"> <img src="https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff" alt="Portfolio" /> </a></p>
 
 <p align="center">
 <a href="https://newaz.tech" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Newaz.tech&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=On&url=https%3A%2F%2Fnewaz.tech" alt="Portfolio" /> </a>
