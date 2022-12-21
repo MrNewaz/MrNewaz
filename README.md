@@ -162,7 +162,7 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 
 <p align="center"><img width="500" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrnewaz&theme=neon-palenight&hide_border=true&fire=FFDD32&ring=00CEDD&sideNums=FFDD32&background=141321&sideLabels=A8FDF6" alt="mrnewaz" /></p>
 
-<p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
+<p align="center"><img width="1000" align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mrnewaz&theme=react-dark&hide_border=true&area=true" /></p>
 
 <br>
 <h2 align="center">Since you came this far, this is for you❤️</h2>
@@ -171,5 +171,3 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 <p align="center">
   <img src="https://github.com/MrNewaz/MrNewaz/blob/main/img/robot.svg">
 </p>
-
-<!-- New -->
