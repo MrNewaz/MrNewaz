@@ -31,11 +31,9 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 <a href="https://facebook.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
 <a href="https://instagram.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta" /> </a>
 
- <a href="https://github.com/MrNewaz/Simple-View-Counter">
-<img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MrNewaz-profile-views"/>
+ <a href="https://github.com/MrNewaz?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MrNewaz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
-
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=saif_newaz" target="_blank"> <img src="https://img.shields.io/twitter/follow/saif_newaz?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter" /> </a>
  </p>
 
 <br>
