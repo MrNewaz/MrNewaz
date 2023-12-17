@@ -31,7 +31,7 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 <a href="https://facebook.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
 <a href="https://instagram.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta" /> </a>
 
-<a href="https://stars.github.com/profiles/denvercoder1/">
+<a href="https://stars.github.com/profiles/MrNewaz/">
 <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/>
 </a>
 
