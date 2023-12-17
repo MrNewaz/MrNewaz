@@ -30,6 +30,11 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 <a href="https://engineersaif.com/" target="_blank"> <img src="https://img.shields.io/website?color=%23FABF15&down_color=down&down_message=critical&label=Engineersaif.com&logo=Suzuki&logoColor=%23FABF15&style=for-the-badge&up_color=success&up_message=On&url=https%3A%2F%2Fengineersaif.com" alt="Portfolio" /> </a>
 <a href="https://facebook.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
 <a href="https://instagram.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta" /> </a>
+
+<a href="https://stars.github.com/profiles/denvercoder1/">
+<img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/>
+</a>
+
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=saif_newaz" target="_blank"> <img src="https://img.shields.io/twitter/follow/saif_newaz?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter" /> </a>
  </p>
 
