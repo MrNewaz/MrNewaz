@@ -34,7 +34,7 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 <a href="https://github.com/MrNewaz?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MrNewaz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
- </p>
+</p>
 
 <br>
 <h1 align="center">🔸️My Stack🔸️</h1>
