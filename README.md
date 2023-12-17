@@ -31,7 +31,7 @@ For further information, please contact me via <a href="mailto:mr.saifnewaz@gmai
 <a href="https://facebook.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
 <a href="https://instagram.com/saif.newaz" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta" /> </a>
 
- <a href="https://github.com/MrNewaz?tab=repositories&sort=stargazers">
+<a href="https://github.com/MrNewaz?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MrNewaz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
  </p>
