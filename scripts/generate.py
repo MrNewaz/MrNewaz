@@ -493,12 +493,12 @@ def header(theme: str, num: str, label: str, plain: str, serif: str, tail: str =
 
 
 EXPERIENCE = [
-    ("2023 · NOW", "POWERLEY", "Senior Software Engineer", "Energy platform · Full-stack Next.js",
-     "Architecting a 100k+ user platform end to end on Next.js and Node: API layer, data fetching and caching. Advanced caching and code-splitting drove a 30% performance boost and a 20% SEO uplift.", "30%", "faster"),
+    ("2023 · NOW", "POWERLEY", "Senior Software Engineer", "Energy platform · Next.js and TypeScript",
+     "Leading the Next.js and TypeScript migration of a 100k+ user platform: rendering, data fetching, real-time views and caching. Advanced caching and code-splitting drove a 30% performance boost and a 20% SEO uplift.", "30%", "faster"),
     ("2021 · 2023", "SUPERTAL", "Software Engineer", "Cross-platform web + mobile · Talent management",
      "Full-stack web and React Native features against Node/Express APIs. Optimised state with React Query, cutting redundant network calls by 35%, and streamlined CI/CD with GitHub Actions.", "35%", "fewer calls"),
     ("2020 · 2021", "FERNTECH SOLUTIONS", "Software Engineer", "SaaS · Raaga restaurant platform",
-     "Built Raaga, an end-to-end SaaS for 100+ restaurants. Owned auth, realtime dashboards and a companion mobile ordering app that lifted engagement by 35%.", "100+", "restaurants"),
+     "Built Raaga end to end for 100+ restaurants: the React web app, the Node.js, Express and MongoDB backend, auth, realtime dashboards and a companion mobile ordering app that lifted engagement by 35%.", "100+", "restaurants"),
     ("2019", "RGB JUTE", "Web Developer", "E-commerce · Marketing automation",
      "Custom e-commerce and inventory tools. Automated marketing workflows with Python and Selenium, driving a 25% lift in online sales.", "25%", "more sales"),
 ]
