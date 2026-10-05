@@ -19,6 +19,7 @@ import io
 import math
 import random
 from datetime import date
+import json
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -575,6 +576,168 @@ def footer(theme: str) -> str:
     return svg.render()
 
 
+# --------------------------------------------------------------- signals ---
+
+SIGNALS_FILE = Path(__file__).resolve().parent / "signals.json"
+LANG_COLORS = {
+    "dark": ["#f6d68c", "#8a6cf0", "#46aab4", "#dc8446", "#e8e6e0", "#c86a8a", "#a87a26"],
+    "light": ["#a87a26", "#4a2f8f", "#2e7f88", "#b8552a", "#6b5f80", "#a3405f", "#6e4a0c"],
+}
+
+
+def fmt(n: int) -> str:
+    return f"{n:,}"
+
+
+def signals(theme: str) -> str:
+    """GitHub numbers from scripts/signals.json, drawn in the LoreCraftian style."""
+    d = json.loads(SIGNALS_FILE.read_text(encoding="utf-8"))
+    svg = Svg(1200, 480, theme, (
+        f"GitHub signals: {d['stars']} stars, {d['contributions_total']} contributions since {d['since']}, "
+        f"current streak {d['current']} days, longest {d['longest']} days."))
+    t = svg.t
+    sky(svg, 77, 110)
+    frame_border(svg)
+    svg.css.append(
+        "@keyframes ring{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}"
+        ".ringfill{animation:ring 2.4s cubic-bezier(.16,1,.3,1) .3s both}"
+        "@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}"
+        ".seg{transform-box:fill-box;transform-origin:left;animation:grow 1.4s cubic-bezier(.16,1,.3,1) both}"
+        "@keyframes rise2{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}"
+        ".rs{animation:rise2 1s cubic-bezier(.16,1,.3,1) both}"
+        "@keyframes glow{0%,100%{opacity:.6}50%{opacity:1}}.gl{animation:glow 3.6s ease-in-out infinite}"
+        "@keyframes orbitc{to{transform:rotate(360deg)}}.cm{animation:orbitc 6s linear infinite;transform-box:view-box}"
+    )
+    svg.text(1160, 40, f"LIVE FROM GITHUB · UPDATED {d['updated']}", "LcDisplay", 9.5, t["faint"], "end", ls=0.16)
+
+    # Row 1: four signals; the current streak is a gold ring
+    cols = [
+        (fmt(d["stars"]), "stars earned", f"across {d['repos']} repositories"),
+        (fmt(d["contributions_total"]), "contributions", f"since {d['since']}"),
+        None,
+        (fmt(d["longest"]), "longest streak", "days in a row"),
+    ]
+    cw = 1120 / 4
+    for i, c in enumerate(cols):
+        cx = 40 + cw * i + cw / 2
+        if i:
+            svg.body.append(f'<line x1="{40 + cw * i}" y1="62" x2="{40 + cw * i}" y2="196" stroke="{t["gold"]}" stroke-opacity=".22"/>')
+        delay = f"animation-delay:{0.15 * i:.2f}s"
+        if c is None:
+            frac = min(1.0, d["current"] / max(d["longest"], 1))
+            r = 66
+            svg.body.append(f'<circle cx="{cx}" cy="124" r="{r}" fill="none" stroke="{t["gold"]}" stroke-opacity=".18" stroke-width="5"/>')
+            svg.body.append(
+                f'<circle class="ringfill" cx="{cx}" cy="124" r="{r}" fill="none" stroke="{t["goldhi"]}" stroke-width="5" '
+                f'stroke-linecap="round" pathLength="1" transform="rotate(-90 {cx} 124)" '
+                f'style="stroke-dasharray:{frac:.3f} 1"/>'
+            )
+            svg.body.append(
+                f'<g class="cm" style="transform-origin:{cx}px 124px"><circle cx="{cx}" cy="{124 - r}" r="5" fill="{t["goldhi"]}"/>'
+                f'<circle cx="{cx}" cy="{124 - r}" r="11" fill="{t["goldhi"]}" opacity=".2"/></g>'
+            )
+            svg.text(cx, 130, fmt(d["current"]), "LcDisplay", 24, t["goldhi"], "middle", cls="gl")
+            svg.text(cx, 150, "DAY STREAK", "LcDisplay", 8.5, t["soft"], "middle", ls=0.18)
+            svg.text(cx, 214, f"current, since {d['current_since']}", "LcBody", 13, t["faint"], "middle")
+            continue
+        n, label, sub = c
+        svg.text(cx, 128, n, "LcDisplay", 44, t["goldhi"], "middle", cls="rs gl", css=delay)
+        svg.text(cx, 160, label, "LcBody", 17, t["ink"], "middle", cls="rs", css=delay)
+        svg.text(cx, 184, sub, "LcBody", 13, t["faint"], "middle", cls="rs", css=delay)
+
+    svg.body.append(f'<line x1="60" y1="234" x2="1140" y2="234" stroke="{t["gold"]}" stroke-opacity=".2"/>')
+
+    # Row 2, left: the last year as a constellation of gold dots
+    cal = d["calendar"]
+    mx = max(cal) or 1
+    x0, y0, step = 64, 296, 12.6
+    svg.text(x0, 270, f"LAST 12 MONTHS · {fmt(d['contributions_year'])} CONTRIBUTIONS", "LcDisplay", 10.5, t["gold"], ls=0.18)
+    rnd = random.Random(9)
+    for k, v in enumerate(cal):
+        col, row = divmod(k, 7)
+        x, y = x0 + col * step, y0 + row * step
+        if v == 0:
+            svg.body.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="1.1" fill="{t["faint"]}" opacity=".5"/>')
+            continue
+        lvl = math.sqrt(v / mx)
+        r = 1.8 + 3.2 * lvl
+        tw = (f' class="st" style="--d:{rnd.uniform(2, 5):.1f}s;animation-delay:-{rnd.uniform(0, 5):.1f}s"'
+              if lvl > 0.55 else "")
+        svg.body.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r:.2f}" fill="{t["goldhi"]}" fill-opacity="{0.35 + 0.65 * lvl:.2f}"{tw}/>')
+    svg.text(x0, y0 + 7 * step + 18, "a year ago", "LcBody", 12, t["faint"])
+    svg.text(x0 + 51 * step, y0 + 7 * step + 18, "today", "LcBody", 12, t["faint"], "end")
+
+    # Row 2, right: languages
+    lx, lw = 780, 360
+    svg.text(lx, 270, "LANGUAGES · BY CODE VOLUME", "LcDisplay", 10.5, t["gold"], ls=0.18)
+    cols_l = LANG_COLORS[theme]
+    x = lx
+    for i, lang in enumerate(d["languages"]):
+        w = lw * lang["pct"] / 100
+        svg.body.append(
+            f'<rect class="seg" x="{x:.1f}" y="292" width="{max(w - 2, 1):.1f}" height="12" rx="3" fill="{cols_l[i % len(cols_l)]}" '
+            f'style="animation-delay:{0.3 + i * 0.12:.2f}s"/>'
+        )
+        x += w
+    for i, lang in enumerate(d["languages"]):
+        cx_, cy_ = lx + (i % 2) * 190, 338 + (i // 2) * 30
+        svg.body.append(f'<circle cx="{cx_ + 6}" cy="{cy_ - 5}" r="5" fill="{cols_l[i % len(cols_l)]}"/>')
+        svg.text(cx_ + 20, cy_, lang["name"], "LcBody", 15, t["ink"])
+        svg.text(cx_ + 170, cy_, f"{lang['pct']}%", "LcDisplay", 11, t["soft"], "end")
+    return svg.render()
+
+
+def closing(theme: str) -> str:
+    """The sign-off: stars that draw themselves into a heart, a shooting star, the planet."""
+    svg = Svg(1200, 400, theme, "Since you came this far, this one is for you. Thank you for reading.")
+    t = svg.t
+    sky(svg, 88, 150)
+    planet(svg, 1050, 300, 52, tilt=-14, outer=2.3)
+    dust(svg, 12, 22)
+    frame_border(svg)
+    svg.css.append(
+        "@keyframes draw{0%{stroke-dashoffset:1;opacity:1}45%{stroke-dashoffset:0;opacity:1}85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}"
+        ".heart{stroke-dasharray:1;animation:draw 9s ease-in-out infinite}"
+        "@keyframes core{0%,100%{opacity:.35;transform:scale(.85)}50%{opacity:.9;transform:scale(1.15)}}"
+        ".hc{animation:core 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}"
+        "@keyframes shoot{0%{transform:translate(0,0);opacity:0}4%{opacity:1}14%{transform:translate(520px,170px);opacity:0}100%{opacity:0}}"
+        ".shoot{animation:shoot 7s ease-in infinite}"
+    )
+    svg.defs.append(
+        f'<linearGradient id="trail" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{t["goldhi"]}" stop-opacity="0"/>'
+        f'<stop offset="1" stop-color="{t["goldhi"]}"/></linearGradient>'
+        f'<radialGradient id="hcore"><stop offset="0" stop-color="{t["goldhi"]}" stop-opacity=".9"/>'
+        f'<stop offset="1" stop-color="{t["goldhi"]}" stop-opacity="0"/></radialGradient>'
+    )
+    svg.body.append(
+        f'<g class="shoot"><line x1="80" y1="40" x2="190" y2="76" stroke="url(#trail)" stroke-width="2" stroke-linecap="round"/>'
+        f'<circle cx="190" cy="76" r="2.6" fill="{t["goldhi"]}"/></g>'
+    )
+    cx, cy, k = 600, 120, 5.2
+    pts = []
+    for i in range(16):
+        a = i / 16 * math.tau
+        x = 16 * math.sin(a) ** 3
+        y = -(13 * math.cos(a) - 5 * math.cos(2 * a) - 2 * math.cos(3 * a) - math.cos(4 * a))
+        pts.append((cx + x * k, cy + y * k))
+    path = "M" + " L".join(f"{x:.1f} {y:.1f}" for x, y in pts) + " Z"
+    svg.body.append(f'<circle class="hc" cx="{cx}" cy="{cy + 8}" r="46" fill="url(#hcore)"/>')
+    svg.body.append(f'<path d="{path}" fill="none" stroke="{t["gold"]}" stroke-opacity=".25" stroke-width="1"/>')
+    svg.body.append(f'<path class="heart" d="{path}" pathLength="1" fill="none" stroke="{t["goldhi"]}" stroke-width="1.6" stroke-linejoin="round"/>')
+    rnd = random.Random(4)
+    for i, (x, y) in enumerate(pts):
+        big = i in (0, 4, 8, 12)
+        svg.body.append(
+            f'<circle class="st" cx="{x:.1f}" cy="{y:.1f}" r="{3.2 if big else 2.1}" fill="{t["goldhi"]}" '
+            f'style="--d:{rnd.uniform(2.5, 5):.1f}s;animation-delay:-{rnd.uniform(0, 5):.1f}s"/>'
+        )
+    sheen = gold_sheen(svg, "csheen", 360, 840)
+    svg.text(600, 268, "Since you came this far,", "LcSerif", 40, sheen, "middle")
+    svg.text(600, 312, "this one is for you.", "LcSerif", 40, sheen, "middle")
+    svg.text(600, 360, "THANK YOU FOR READING  ✦  SAIF RAHMAN", "LcDisplay", 11, t["soft"], "middle", ls=0.22)
+    return svg.render()
+
+
 def divider(theme: str) -> str:
     svg = Svg(1200, 40, theme, "")
     t = svg.t
@@ -609,6 +772,8 @@ def main():
             "timeline": timeline(theme),
             "footer": footer(theme),
             "divider": divider(theme),
+            "signals": signals(theme),
+            "closing": closing(theme),
         }
         for key, (num, label, plain, serif) in sections.items():
             files[f"h-{key}"] = header(theme, num, label, plain, serif)

@@ -283,14 +283,7 @@ I'm **not bound to any stack**. I've shipped with React, Next.js and React Nativ
 <picture><source media="(prefers-color-scheme: dark)" srcset="img/lorecraft/h-stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="img/lorecraft/h-stats-light.svg"><img src="img/lorecraft/h-stats-dark.svg" alt="07 · Signals: the archive, by the numbers" width="100%"></picture>
 
 
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MrNewaz&show_icons=true&include_all_commits=true&count_private=true&border_radius=18&bg_color=135,0B0816,221642&title_color=F6D68C&icon_color=D6AC5C&text_color=E8E6E0&border_color=3A2A5E&ring_color=D6AC5C"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MrNewaz&show_icons=true&include_all_commits=true&count_private=true&border_radius=18&bg_color=135,F6F1E5,ECE3F5&title_color=8A5F12&icon_color=A87A26&text_color=1A1230&border_color=D8C39A&ring_color=A87A26"><img src="https://github-readme-stats.vercel.app/api?username=MrNewaz&show_icons=true&include_all_commits=true&count_private=true&border_radius=18&bg_color=135,0B0816,221642&title_color=F6D68C&icon_color=D6AC5C&text_color=E8E6E0&border_color=3A2A5E&ring_color=D6AC5C" alt="GitHub stats" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNewaz&layout=compact&langs_count=10&border_radius=18&bg_color=135,0B0816,221642&title_color=F6D68C&text_color=E8E6E0&border_color=3A2A5E"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNewaz&layout=compact&langs_count=10&border_radius=18&bg_color=135,F6F1E5,ECE3F5&title_color=8A5F12&text_color=1A1230&border_color=D8C39A"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNewaz&layout=compact&langs_count=10&border_radius=18&bg_color=135,0B0816,221642&title_color=F6D68C&text_color=E8E6E0&border_color=3A2A5E" alt="Top languages" width="41%"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrNewaz&border_radius=18&background=135,0B0816,221642&border=3A2A5E&stroke=3A2A5E&ring=D6AC5C&fire=F6D68C&currStreakNum=F6D68C&sideNums=E8E6E0&currStreakLabel=D6AC5C&sideLabels=A9A3B4&dates=6F6880"><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MrNewaz&border_radius=18&background=135,F6F1E5,ECE3F5&border=D8C39A&stroke=D8C39A&ring=A87A26&fire=8A5F12&currStreakNum=8A5F12&sideNums=1A1230&currStreakLabel=A87A26&sideLabels=4F4763&dates=7D7590"><img src="https://streak-stats.demolab.com?user=MrNewaz&border_radius=18&background=135,0B0816,221642&border=3A2A5E&stroke=3A2A5E&ring=D6AC5C&fire=F6D68C&currStreakNum=F6D68C&sideNums=E8E6E0&currStreakLabel=D6AC5C&sideLabels=A9A3B4&dates=6F6880" alt="GitHub streak" width="60%"></picture>
-</p>
+<a href="https://github.com/MrNewaz?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="img/lorecraft/signals-dark.svg"><source media="(prefers-color-scheme: light)" srcset="img/lorecraft/signals-light.svg"><img src="img/lorecraft/signals-dark.svg" alt="GitHub signals: stars, contributions, streaks and languages" width="100%"></picture></a>
 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="img/lorecraft/h-hire-dark.svg"><source media="(prefers-color-scheme: light)" srcset="img/lorecraft/h-hire-light.svg"><img src="img/lorecraft/h-hire-dark.svg" alt="08 · Hire: hire an engineer who finishes" width="100%"></picture>
@@ -326,6 +319,4 @@ I'm **not bound to any stack**. I've shipped with React, Next.js and React Nativ
 <picture><source media="(prefers-color-scheme: dark)" srcset="img/lorecraft/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="img/lorecraft/divider-light.svg"><img src="img/lorecraft/divider-dark.svg" alt="" width="100%"></picture>
 
 
-<h3 align="center"><i>Since you came this far, this one is for you</i> ❤️</h3>
-
-<p align="center"><img src="img/robot.svg" alt="A waving robot" width="420"/></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="img/lorecraft/closing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="img/lorecraft/closing-light.svg"><img src="img/lorecraft/closing-dark.svg" alt="Since you came this far, this one is for you. Thank you for reading." width="100%"></picture>

@@ -152,27 +152,6 @@ def themed_remote(dark_url: str, light_url: str, alt: str, width: str) -> str:
     )
 
 
-STATS_DARK = dict(bg="135,0B0816,221642", title="F6D68C", icon="D6AC5C", text="E8E6E0", border="3A2A5E", soft="A9A3B4", faint="6F6880")
-STATS_LIGHT = dict(bg="135,F6F1E5,ECE3F5", title="8A5F12", icon="A87A26", text="1A1230", border="D8C39A", soft="4F4763", faint="7D7590")
-
-
-def stats_url(c: dict) -> str:
-    return (f"https://github-readme-stats.vercel.app/api?username={USER}&show_icons=true&include_all_commits=true"
-            f"&count_private=true&border_radius=18&bg_color={c['bg']}&title_color={c['title']}&icon_color={c['icon']}"
-            f"&text_color={c['text']}&border_color={c['border']}&ring_color={c['icon']}")
-
-
-def langs_url(c: dict) -> str:
-    return (f"https://github-readme-stats.vercel.app/api/top-langs/?username={USER}&layout=compact&langs_count=10"
-            f"&border_radius=18&bg_color={c['bg']}&title_color={c['title']}&text_color={c['text']}&border_color={c['border']}")
-
-
-def streak_url(c: dict) -> str:
-    return (f"https://streak-stats.demolab.com?user={USER}&border_radius=18&background={c['bg']}&border={c['border']}"
-            f"&stroke={c['border']}&ring={c['icon']}&fire={c['title']}&currStreakNum={c['title']}&sideNums={c['text']}"
-            f"&currStreakLabel={c['icon']}&sideLabels={c['soft']}&dates={c['faint']}")
-
-
 def table(cells: list[str], cols: int) -> str:
     rows = [cells[i:i + cols] for i in range(0, len(cells), cols)]
     width = f"{100 // cols}%"
@@ -270,13 +249,8 @@ def build() -> str:
 
     # Signals
     w(f'\n{themed("h-stats", "07 · Signals: the archive, by the numbers")}\n')
-    w('\n<p align="center">\n'
-      + themed_remote(stats_url(STATS_DARK), stats_url(STATS_LIGHT), "GitHub stats", "49%") + "\n"
-      + themed_remote(langs_url(STATS_DARK), langs_url(STATS_LIGHT), "Top languages", "41%") + "\n"
-      "</p>\n")
-    w('<p align="center">\n'
-      + themed_remote(streak_url(STATS_DARK), streak_url(STATS_LIGHT), "GitHub streak", "60%") + "\n"
-      "</p>\n")
+    # Our own card, drawn from scripts/signals.json (refreshed weekly by the Action).
+    w(f'\n<a href="https://github.com/{USER}?tab=repositories">{themed("signals", "GitHub signals: stars, contributions, streaks and languages")}</a>\n')
 
     # Hire
     w(f'\n{themed("h-hire", "08 · Hire: hire an engineer who finishes")}\n')
@@ -292,8 +266,7 @@ def build() -> str:
     # Contact / sign-off
     w(f'\n<a href="{MAIL}">{themed("footer", "09 · Contact: architecting intelligent web ecosystems. info@engineersaif.com")}</a>\n')
     w(f'\n{themed("divider", "")}\n')
-    w('\n<h3 align="center"><i>Since you came this far, this one is for you</i> ❤️</h3>\n')
-    w('<p align="center"><img src="img/robot.svg" alt="A waving robot" width="420"/></p>\n')
+    w(f'\n{themed("closing", "Since you came this far, this one is for you. Thank you for reading.")}\n')
     return "\n".join(out)
 
 
