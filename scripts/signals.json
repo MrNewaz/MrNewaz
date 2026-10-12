@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-05",
+ "updated": "2026-10-12",
  "stars": 260,
  "repos": 119,
  "followers": 12,
- "contributions_total": 6796,
- "contributions_year": 873,
+ "contributions_total": 6837,
+ "contributions_year": 900,
  "since": 2021,
- "current": 2093,
+ "current": 2100,
  "current_since": "2021-01-12",
- "longest": 2093,
+ "longest": 2100,
  "longest_from": "2021-01-12",
- "longest_to": "2026-10-05",
+ "longest_to": "2026-10-12",
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 61.2
+   "pct": 60.9
   },
   {
    "name": "HTML",
-   "pct": 22.9
+   "pct": 22.8
   },
   {
    "name": "CSS",
-   "pct": 8.9
+   "pct": 8.8
   },
   {
    "name": "TypeScript",
@@ -30,7 +30,7 @@
   },
   {
    "name": "C++",
-   "pct": 1.7
+   "pct": 1.6
   },
   {
    "name": "Dart",
@@ -38,17 +38,10 @@
   },
   {
    "name": "Other",
-   "pct": 1.6
+   "pct": 2.2
   }
  ],
  "calendar": [
-  2,
-  2,
-  2,
-  2,
-  2,
-  2,
-  2,
   2,
   2,
   2,
@@ -405,6 +398,13 @@
   15,
   6,
   13,
-  5
+  6,
+  7,
+  5,
+  6,
+  5,
+  7,
+  6,
+  4
  ]
 }
